@@ -1,0 +1,1 @@
+*/1 * * * * /usr/bin/curl http://mdsitemonitor.dev2.in/crons/singleproject/154
